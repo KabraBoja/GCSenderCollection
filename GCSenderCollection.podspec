@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = '1.0.0'
   s.summary      = 'A class that acts as a NSDictionary able to accept objects as keys using (hash generation). It also can use weak references to avoid cyclic references.'
   s.author = {
-    'Eloi Guzmán Cerón' => 'guzman.eloi@gmail.com'
+    'Eloi Guzmán Cerón' => ''
   }
   s.platform = :ios
   s.source  = { 
