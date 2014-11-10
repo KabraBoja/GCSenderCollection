@@ -27,7 +27,7 @@
             _lock = [[NSRecursiveLock alloc]init];
         }
 
-        NSUInteger capacity = 32;
+        NSUInteger capacity = 1;
         if (options & GCSenderCollectionOptionsMediumCapacity) {
             capacity = 256;
         }
